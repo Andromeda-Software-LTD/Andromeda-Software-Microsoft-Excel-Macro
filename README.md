@@ -42,9 +42,9 @@ Esperamos que este guia tenha fornecido uma visão abrangente sobre o Android SD
 ## Funcionalidades
  Capaz de infectar um computador atraveis de um documento Word
  Compativel com Linux Msfvenom/Njrat/Venom/Xword/Pandora Hvnc/Venom/ReadLine
-## Demonstração Andromeda Word Macro 2024
+## Demonstração Andromeda Excel Macro 2024
 
-Andromeda Microsoft Word Macro https://youtu.be/7vR7c6a76CE
+Andromeda Microsoft Excel Macro https://youtu.be/7vR7c6a76CE
 
 ## Instalação
 
