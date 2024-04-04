@@ -1,5 +1,5 @@
 
-# Andromeda Software Microsoft Excel 2022 Macro
+# Andromeda Software Microsoft Excel 2024 Macro
 
 
 O Android SDK Manager é uma ferramenta essencial para desenvolvedores que desejam criar aplicativos para dispositivos Android. Ele oferece acesso a uma variedade de componentes do software development kit (SDK) do Android, incluindo as diferentes versões do sistema operacional Android, bibliotecas, ferramentas e emuladores. Neste guia, exploraremos o Android SDK Manager e como ele pode ser usado para gerenciar as versões do Android para desenvolvimento de aplicativos.
