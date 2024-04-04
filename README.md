@@ -44,7 +44,8 @@ Esperamos que este guia tenha fornecido uma visão abrangente sobre o Android SD
  Compativel com Linux Msfvenom/Njrat/Venom/Xword/Pandora Hvnc/Venom/ReadLine
 ## Demonstração Andromeda Excel Macro 2024
 
-Andromeda Microsoft Excel Macro https://youtu.be/7vR7c6a76CE
+Andromeda Microsoft Excel Macro https://youtu.be/7vR7c6a76CE Apresentação
+Andromeda Microsoft Excel Macro Windows 10 https://youtu.be/q-Zn7pwVumk
 
 ## Instalação
 
